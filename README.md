@@ -1,9 +1,8 @@
 ### Olá, eu sou o Augusto Parizio! 👋
 
 
-- 🔭 Hoje trabalho Back-end com Gerenciamento de DB de Identidade usando o plataforma do Sailpoint.
-- 🌱 Estudando: Lógica de programação, Condicionais, variaveis, Mysql, Sql, Python. 
-- 😄 Pronomes: ele/dele
+- 🔭 Trabalhei no ultimo projeto na area de Infraestrutura na parte de Identity Manager usando o software IdentityIQ e como plataforma o Sailpoint (plataforma de nuvem de segurança de identidade).
+- 🌱 Estudando: Lógica de programação, Condicionais, variaveis, MySQL, SQL, Python e também criando aplicativos para usar em meu portifólio no futuro.
 
  <div align="center">
     <a href="https://github.com/AugustoParizioMelo">
